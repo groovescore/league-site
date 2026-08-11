@@ -60,7 +60,7 @@ redirects = {
         False
     ),
     'signup': (
-        'https://forms.gle/UCxCSi99qRCxfHHd8',
+        'https://forms.gle/KbNU5Zvw1T8okBs6A',
         'redirect.html',
         False
     ),
