@@ -55,7 +55,7 @@ html_extra_path = [str(REDIRECT_PATH)]
 redirects = {
     # format: 'subdir': (target_url, template, javascript)
     'info': (
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vQobmxLXbaetuf0twsuBLLeAvDZXfJj1Bsoj3ZRWOLjymOiSdjTmomZwWY9puUz8lwmbGf1igXjzBIt/pubhtml?gid=1727048767&single=true',
+        'https://docs.google.com/spreadsheets/d/e/2PACX-1vTjKF_KP10x6yYB-03NC4M8fm-p4BhMcNLRQhVahUjS6soE_qQwBNv2KrHl-4RQa1j7Hr60BwdNjVza/pubhtml?gid=1727048767&single=true',
         'redirect.html',
         False
     ),
