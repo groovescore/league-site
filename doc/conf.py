@@ -65,7 +65,7 @@ redirects = {
         False
     ),
     'sheet': (
-        'https://docs.google.com/spreadsheets/d/1R2E2bx-0bj33z7jurkFAQED-24mgDQzYYmnm68lk5bY/view',
+        'https://docs.google.com/spreadsheets/d/1hu2_rqOObQ4UDGmPEmXKih67kJJZAD4FDLjQBotBbe0/view',
         'redirect.html',
         True
     ),
